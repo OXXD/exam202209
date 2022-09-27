@@ -1,0 +1,483 @@
+[
+  {
+    "Site": "site01",
+    "Page views": 4778643,
+    "Ad requests": 16173124,
+    "Coverage": 0.962,
+    "Impressions": 8006116,
+    "Clicks": 457338,
+    "Active View Viewable": 0.6722
+  },
+  {
+    "Site": "site02",
+    "Page views": 1076232,
+    "Ad requests": 7360127,
+    "Coverage": 0.9775,
+    "Impressions": 5371104,
+    "Clicks": 99516,
+    "Active View Viewable": 0.9093
+  },
+  {
+    "Site": "site03",
+    "Page views": 620536,
+    "Ad requests": 2410173,
+    "Coverage": 0.9207,
+    "Impressions": 1285456,
+    "Clicks": 119433,
+    "Active View Viewable": 0.8088
+  },
+  {
+    "Site": "site04",
+    "Page views": 295071,
+    "Ad requests": 718069,
+    "Coverage": 0.9638,
+    "Impressions": 504392,
+    "Clicks": 27711,
+    "Active View Viewable": 0.8154
+  },
+  {
+    "Site": "site05",
+    "Page views": 142343,
+    "Ad requests": 456157,
+    "Coverage": 0.8775,
+    "Impressions": 313660,
+    "Clicks": 12053,
+    "Active View Viewable": 0.7851
+  },
+  {
+    "Site": "site06",
+    "Page views": 89297,
+    "Ad requests": 317386,
+    "Coverage": 0.8543,
+    "Impressions": 204943,
+    "Clicks": 4405,
+    "Active View Viewable": 0.7682
+  },
+  {
+    "Site": "site07",
+    "Page views": 83643,
+    "Ad requests": 362745,
+    "Coverage": 0.9884,
+    "Impressions": 218580,
+    "Clicks": 6320,
+    "Active View Viewable": 0.8128
+  },
+  {
+    "Site": "site08",
+    "Page views": 36229,
+    "Ad requests": 102256,
+    "Coverage": 0.9923,
+    "Impressions": 75968,
+    "Clicks": 2590,
+    "Active View Viewable": 0.7608
+  },
+  {
+    "Site": "site09",
+    "Page views": 35796,
+    "Ad requests": 103777,
+    "Coverage": 0.929,
+    "Impressions": 38074,
+    "Clicks": 4611,
+    "Active View Viewable": 0.676
+  },
+  {
+    "Site": "site10",
+    "Page views": 32426,
+    "Ad requests": 88923,
+    "Coverage": 0.995,
+    "Impressions": 63800,
+    "Clicks": 2147,
+    "Active View Viewable": 0.7877
+  },
+  {
+    "Site": "site11",
+    "Page views": 32355,
+    "Ad requests": 106362,
+    "Coverage": 0.996,
+    "Impressions": 83028,
+    "Clicks": 2037,
+    "Active View Viewable": 0.7591
+  },
+  {
+    "Site": "site12",
+    "Page views": 31938,
+    "Ad requests": 64810,
+    "Coverage": 0.9698,
+    "Impressions": 41737,
+    "Clicks": 2817,
+    "Active View Viewable": 0.6463
+  },
+  {
+    "Site": "site13",
+    "Page views": 26332,
+    "Ad requests": 48784,
+    "Coverage": 0.899,
+    "Impressions": 24264,
+    "Clicks": 2409,
+    "Active View Viewable": 0.6266
+  },
+  {
+    "Site": "site14",
+    "Page views": 24831,
+    "Ad requests": 179843,
+    "Coverage": 0.968,
+    "Impressions": 130481,
+    "Clicks": 6337,
+    "Active View Viewable": 0.9107
+  },
+  {
+    "Site": "site15",
+    "Page views": 18524,
+    "Ad requests": 27532,
+    "Coverage": 0.9971,
+    "Impressions": 19318,
+    "Clicks": 843,
+    "Active View Viewable": 0.6436
+  },
+  {
+    "Site": "site16",
+    "Page views": 16280,
+    "Ad requests": 24319,
+    "Coverage": 0.8904,
+    "Impressions": 13416,
+    "Clicks": 759,
+    "Active View Viewable": 0.5996
+  },
+  {
+    "Site": "site17",
+    "Page views": 15256,
+    "Ad requests": 22733,
+    "Coverage": 0.9879,
+    "Impressions": 18334,
+    "Clicks": 1417,
+    "Active View Viewable": 0.8254
+  },
+  {
+    "Site": "site18",
+    "Page views": 9750,
+    "Ad requests": 43497,
+    "Coverage": 0.9334,
+    "Impressions": 26001,
+    "Clicks": 2597,
+    "Active View Viewable": 0.8138
+  },
+  {
+    "Site": "site19",
+    "Page views": 4760,
+    "Ad requests": 30694,
+    "Coverage": 0.9707,
+    "Impressions": 23924,
+    "Clicks": 363,
+    "Active View Viewable": 0.7674
+  },
+  {
+    "Site": "site20",
+    "Page views": 4221,
+    "Ad requests": 16988,
+    "Coverage": 0.69,
+    "Impressions": 7166,
+    "Clicks": 367,
+    "Active View Viewable": 0.7426
+  },
+  {
+    "Site": "site21",
+    "Page views": 3574,
+    "Ad requests": 5909,
+    "Coverage": 0.9809,
+    "Impressions": 3917,
+    "Clicks": 181,
+    "Active View Viewable": 0.6206
+  },
+  {
+    "Site": "site22",
+    "Page views": 1666,
+    "Ad requests": 11269,
+    "Coverage": 0.8162,
+    "Impressions": 6867,
+    "Clicks": 235,
+    "Active View Viewable": 0.8906
+  },
+  {
+    "Site": "site23",
+    "Page views": 589,
+    "Ad requests": 6042,
+    "Coverage": 0.995,
+    "Impressions": 5033,
+    "Clicks": 41,
+    "Active View Viewable": 0.8979
+  },
+  {
+    "Site": "site24",
+    "Page views": 377,
+    "Ad requests": 573,
+    "Coverage": 0.9668,
+    "Impressions": 345,
+    "Clicks": 28,
+    "Active View Viewable": 0.5354
+  },
+  {
+    "Site": "site25",
+    "Page views": 119,
+    "Ad requests": 1381,
+    "Coverage": 1,
+    "Impressions": 1189,
+    "Clicks": 7,
+    "Active View Viewable": 0.9398
+  },
+  {
+    "Site": "site26",
+    "Page views": 60,
+    "Ad requests": 371,
+    "Coverage": 0.965,
+    "Impressions": 258,
+    "Clicks": 4,
+    "Active View Viewable": 0.9426
+  },
+  {
+    "Site": "site27",
+    "Page views": 38,
+    "Ad requests": 124,
+    "Coverage": 0.9919,
+    "Impressions": 68,
+    "Clicks": 1,
+    "Active View Viewable": 0.7931
+  },
+  {
+    "Site": "site28",
+    "Page views": 36,
+    "Ad requests": 95,
+    "Coverage": 0.9895,
+    "Impressions": 80,
+    "Clicks": 2,
+    "Active View Viewable": 0.7625
+  },
+  {
+    "Site": "site29",
+    "Page views": 35,
+    "Ad requests": 305,
+    "Coverage": 0.9967,
+    "Impressions": 270,
+    "Clicks": 10,
+    "Active View Viewable": 0.8854
+  },
+  {
+    "Site": "site30",
+    "Page views": 31,
+    "Ad requests": 73,
+    "Coverage": 0.8767,
+    "Impressions": 62,
+    "Clicks": 0,
+    "Active View Viewable": 1
+  },
+  {
+    "Site": "site31",
+    "Page views": 24,
+    "Ad requests": 76,
+    "Coverage": 0.3553,
+    "Impressions": 25,
+    "Clicks": 0,
+    "Active View Viewable": 0.6
+  },
+  {
+    "Site": "site32",
+    "Page views": 24,
+    "Ad requests": 15,
+    "Coverage": 1,
+    "Impressions": 14,
+    "Clicks": 0,
+    "Active View Viewable": 1
+  },
+  {
+    "Site": "site33",
+    "Page views": 22,
+    "Ad requests": 77,
+    "Coverage": 0.9091,
+    "Impressions": 36,
+    "Clicks": 0,
+    "Active View Viewable": 1
+  },
+  {
+    "Site": "site34",
+    "Page views": 12,
+    "Ad requests": 30,
+    "Coverage": 1,
+    "Impressions": 24,
+    "Clicks": 0,
+    "Active View Viewable": 0.4583
+  },
+  {
+    "Site": "site35",
+    "Page views": 10,
+    "Ad requests": 25,
+    "Coverage": 1,
+    "Impressions": 18,
+    "Clicks": 0,
+    "Active View Viewable": 1
+  },
+  {
+    "Site": "site36",
+    "Page views": 10,
+    "Ad requests": 32,
+    "Coverage": 0.8125,
+    "Impressions": 22,
+    "Clicks": 0,
+    "Active View Viewable": 0.8182
+  },
+  {
+    "Site": "site37",
+    "Page views": 10,
+    "Ad requests": 48,
+    "Coverage": 1,
+    "Impressions": 30,
+    "Clicks": 0,
+    "Active View Viewable": 1
+  },
+  {
+    "Site": "site38",
+    "Page views": 9,
+    "Ad requests": 14,
+    "Coverage": 1,
+    "Impressions": 14,
+    "Clicks": 0,
+    "Active View Viewable": 0.9286
+  },
+  {
+    "Site": "site39",
+    "Page views": 8,
+    "Ad requests": 26,
+    "Coverage": 1,
+    "Impressions": 19,
+    "Clicks": 0,
+    "Active View Viewable": 0.5263
+  },
+  {
+    "Site": "site40",
+    "Page views": 7,
+    "Ad requests": 22,
+    "Coverage": 1,
+    "Impressions": 21,
+    "Clicks": 0,
+    "Active View Viewable": 0.4762
+  },
+  {
+    "Site": "site41",
+    "Page views": 5,
+    "Ad requests": 25,
+    "Coverage": 0.64,
+    "Impressions": 16,
+    "Clicks": 0,
+    "Active View Viewable": 0.1875
+  },
+  {
+    "Site": "site42",
+    "Page views": 4,
+    "Ad requests": 0,
+    "Impressions": 0,
+    "Clicks": 0
+  },
+  {
+    "Site": "site43",
+    "Page views": 3,
+    "Ad requests": 5,
+    "Coverage": 1,
+    "Impressions": 4,
+    "Clicks": 0,
+    "Active View Viewable": 1
+  },
+  {
+    "Site": "site44",
+    "Page views": 3,
+    "Ad requests": 15,
+    "Coverage": 1,
+    "Impressions": 8,
+    "Clicks": 1,
+    "Active View Viewable": 0.8333
+  },
+  {
+    "Site": "site45",
+    "Page views": 2,
+    "Ad requests": 23,
+    "Coverage": 1,
+    "Impressions": 18,
+    "Clicks": 0,
+    "Active View Viewable": 0.8235
+  },
+  {
+    "Site": "site46",
+    "Page views": 2,
+    "Ad requests": 2,
+    "Coverage": 1,
+    "Impressions": 2,
+    "Clicks": 0,
+    "Active View Viewable": 1
+  },
+  {
+    "Site": "site47",
+    "Page views": 2,
+    "Ad requests": 7,
+    "Coverage": 1,
+    "Impressions": 6,
+    "Clicks": 0,
+    "Active View Viewable": 1
+  },
+  {
+    "Site": "site48",
+    "Page views": 2,
+    "Ad requests": 1,
+    "Coverage": 0,
+    "Impressions": 0,
+    "Clicks": 0
+  },
+  {
+    "Site": "site49",
+    "Page views": 1,
+    "Ad requests": 2,
+    "Coverage": 0.5,
+    "Impressions": 1,
+    "Clicks": 0,
+    "Active View Viewable": 0
+  },
+  {
+    "Site": "site50",
+    "Page views": 1,
+    "Ad requests": 1,
+    "Coverage": 0,
+    "Impressions": 0,
+    "Clicks": 0
+  },
+  {
+    "Site": "site51",
+    "Page views": 1,
+    "Ad requests": 5,
+    "Coverage": 1,
+    "Impressions": 6,
+    "Clicks": 0,
+    "Active View Viewable": 0.6667
+  },
+  {
+    "Site": "site52",
+    "Page views": 1,
+    "Ad requests": 2,
+    "Coverage": 1,
+    "Impressions": 2,
+    "Clicks": 0,
+    "Active View Viewable": 0.5
+  },
+  {
+    "Site": "site53",
+    "Page views": 0,
+    "Ad requests": 20,
+    "Coverage": 0.15,
+    "Impressions": 3,
+    "Clicks": 0,
+    "Active View Viewable": 0
+  },
+  {
+    "Site": "site54",
+    "Page views": 0,
+    "Ad requests": 1,
+    "Coverage": 0,
+    "Impressions": 0,
+    "Clicks": 0
+  }
+]

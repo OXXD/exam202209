@@ -1,0 +1,21 @@
+{
+  "name": "exam2209",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "q1": "node src/q1.js",
+    "q2": "node src/q2.js",
+    "q3": "node src/q3.js",
+    "q4": "node src/q4.js",
+    "generate": "node src/data/generate.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tidyjs/tidy": "^2.5.1",
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.18.12/xlsx-0.18.12.tgz"
+  }
+}
